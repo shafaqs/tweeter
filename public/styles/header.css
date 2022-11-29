@@ -1,0 +1,10 @@
+.header {
+  background-color: turquoise;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-image: url("../images/textured-paper.png");
+  display: flex;
+  height: 500px;
+  flex-direction: column;
+}

@@ -1,0 +1,38 @@
+article.tweet header {
+  background-image: none;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+article.tweet header div img {
+  width: 25px
+}
+
+article.tweet {
+  display: flex;
+  flex-direction: column;
+  border: solid;
+}
+
+article.tweet footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+article.tweet:hover {
+  box-shadow: 0 0 10px grey;
+}
+
+
+.fa-solid:hover {
+  color: chocolate;
+}
+
+.fa-solid {
+  padding-left: 5px;
+  padding-right: 5px;
+}
