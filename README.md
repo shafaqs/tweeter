@@ -1,8 +1,8 @@
 # Tweeter Project
 
-Tweeter is a simple, single-page Twitter clone . Created by Shafaq 
+Tweeter is a single-page Twitter clone.
 
-This repository is the starter code for the project: Students will fork and clone this repository, then build upon it to practice their HTML, CSS, JS, jQuery and AJAX front-end skills, and their Node, Express back-end skills.
+This project is created by Shafaq Saud as part of the Web Development Bootcamp. The purpose is to enhance and practice  HTML, CSS, JS, jQuery and AJAX front-end skills. While focusing on css and html.
 
 ## Getting Started
 
