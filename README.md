@@ -2,8 +2,7 @@
 
 Tweeter is a single-page Twitter clone.
 
-This project is created by Shafaq Saud as part of the Web Development Bootcamp. The purpose is to enhance and practice  HTML, CSS, JS, jQuery and AJAX front-end skills. While focusing on css and html.
-
+This project is created by Shafaq Saud as part of the Web Development Bootcamp. The purpose is to enhance and practice  HTML, CSS, JS, jQuery and AJAX front-end skills.
 ## Getting Started
 
 1. [Create](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) a new repository using this repository as a template.
