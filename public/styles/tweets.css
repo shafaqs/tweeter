@@ -28,6 +28,7 @@ article.tweet footer {
 
 }
 
+/* adding shadow style on hover */
 article.tweet:hover {
   box-shadow: 0 0 10px grey;
 }

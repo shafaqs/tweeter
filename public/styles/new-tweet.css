@@ -31,12 +31,14 @@ button {
   font-family: 'Bungee';
 }
 
+/* counter styling */
 .counter {
   font-family: 'Bungee', sans-serif;
   float: right;
 
 }
 
+/* error styling */
 .errorLong {
   display: none;
   color: red;
