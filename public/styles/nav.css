@@ -19,11 +19,12 @@ nav>span {
 
 .rightHandText {
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: medium;
 }
 
 .logo {
   font-family: 'Bungee';
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .fa-angles-down {
