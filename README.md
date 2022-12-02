@@ -3,6 +3,11 @@
 Tweeter is a single-page Twitter clone.
 
 This project is created by Shafaq Saud as part of the Web Development Bootcamp. The purpose is to enhance and practice  HTML, CSS, JS, jQuery and AJAX front-end skills.
+## Screenshot
+!["Screenshot of tablet/cell verion"](https://github.com/shafaqs/tweeter/blob/master/docs/cellphone-tweeter.png?raw=true)
+!["Screenshot of desktop verion"](https://github.com/shafaqs/tweeter/blob/master/docs/tweeter_desktop.png?raw=true)
+
+
 ## Getting Started
 
 1. [Create](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) a new repository using this repository as a template.
