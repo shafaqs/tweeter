@@ -38,3 +38,35 @@ nav {
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
+
+
+@media only screen and (min-width: 1024px) {
+  nav {
+    background-color: #4056A1;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  body {
+    display: flex;
+    flex-direction: row;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+
+  .container {
+    padding-top: 20px;
+    padding-left: 40px;
+    margin-left: 20px;
+    width: 50%;
+  }
+
+  header.header {
+    margin-top: 6em;
+    height: 400px;
+    width: 30%;
+    margin-right: 3em;
+
+  }
+}
