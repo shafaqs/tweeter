@@ -27,6 +27,9 @@ $(document).ready(function() {
       }).then(() => {
         $("#tweet-text").val("");
         $(".counter").val(140);
+        $(".errorShort").hide();
+        $(".errorLong").hide();
+        $(".tweet-container").empty();
         loadTweets();
       });
     }
@@ -71,7 +74,6 @@ $(document).ready(function() {
     // takes return value and appends it to the tweets container
 
     tweets.forEach(element => {
-      console.log(element); // to see what it looks like
       const tweet = createTweetElement(element);
       $('.tweet-container').prepend(tweet);
     });
